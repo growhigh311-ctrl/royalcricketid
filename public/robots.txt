@@ -1,0 +1,7 @@
+# robots.txt for RoyalCricketID
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /drafts/
+
+Sitemap: https://royalcricketid.com/sitemap.xml
