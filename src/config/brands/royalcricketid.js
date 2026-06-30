@@ -5,8 +5,8 @@ export default {
   "theme": "royalcricketid",
   "color": "Purple + White",
   "domain": "royalcricketid.com",
-  "phone": "+91 98765 43212",
-  "whatsapp": "+91 98765 43212",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@RoyalCricketID_Official",
   "tagline": "Your VIP Gateway to Elite Cricket Exchange",
   "seo": {
